@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jamescooling/Documents/GitHub Desktop Testing/Testing1",
+      "program": "/Users/jamescooling/Documents/GitHub Desktop Testing/Testing1/build/Debug/outDebug"
+    }
+  ]
+}
